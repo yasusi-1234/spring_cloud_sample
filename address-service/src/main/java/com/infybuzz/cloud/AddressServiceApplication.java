@@ -1,4 +1,4 @@
-package com.infybuzz.cloud.addressservice;
+package com.infybuzz.cloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
